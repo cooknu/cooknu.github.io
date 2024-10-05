@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cooknu.github.io/Mgt/sitemap.Mgt.gz
